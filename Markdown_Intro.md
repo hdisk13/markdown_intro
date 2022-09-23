@@ -53,7 +53,18 @@ provider "azurerm" {
   features {}
 }
 ```
+---
 
+Some of the people on the team are 
+* Josh
+* Mike
+* Scott
+  1. Liam
+  2. Lilly
+* Xinxin
+* Shaq
+* FM
+* Gregg
 
 ---
 
