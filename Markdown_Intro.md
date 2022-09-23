@@ -1,34 +1,15 @@
 # Markdown Introduction
 
-A brief tour of Markdown&copy; in VS.Code and our DevOps Cloud Journey Wiki. 
+A brief tour of Markdown&copy; in VS.Code and our DevOps Cloud Journey Wiki.
 
-## Setup Visual Studio Code for editing Markdown
+## What is Markdown
 
-
-1. Install Visual Studio Code - the official editor of the MHS-Cloud-Team
-   * https://code.visualstudio.com/Download
-  
-2. With vs.code installed, add the extensions for Markdown
-   * ![Markdown Logo](./img/markdown_ext.png)
-
-3. With the Markdown extention enabled in vs.code, you can utilize the 'preview window'.  In the *upper right corner you should see the following icon.
-
-   * ![Preview Window](./img/preview_window.png)
+Tool for generating formatted html from markdown formatted text.
 
 
 
-4.  With Markdown & Preview in place, your editor should look like:
-   * ![Preview Window](./img/vscode_example.png)
 
-
-## Markdown Syntax
-Markdown has a very simple syntax; many of its markup elements appear to be borrowed from the ways people currently use to apply emphasis or meaning in other plaintext format communications. 
-
-For example, adding *italic emphasis* to a word **or boldness** or the extreme ***italisised boldness*** to a word. 
-
----
-# Technical Documentation / Code Samples
-
+## Killer App 
 The 'killer app' for Markdown is its ability to nicely display Code Samples
 
 Maybe you want to document running `terraform plan` before you run `terraform apply`. 
@@ -73,8 +54,36 @@ provider "azurerm" {
 ```
 
 
+---
 
 
+
+
+## Setup Visual Studio Code for editing Markdown
+
+
+1. Install Visual Studio Code - the official editor of the MHS-Cloud-Team
+   * https://code.visualstudio.com/Download
+  
+2. With vs.code installed, add the extensions for Markdown
+   * ![Markdown Logo](./img/markdown_ext.png)
+
+3. With the Markdown extention enabled in vs.code, you can utilize the 'preview window'.  In the *upper right corner you should see the following icon.
+
+   * ![Preview Window](./img/preview_window.png)
+
+
+
+4.  With Markdown & Preview in place, your editor should look like:
+   * ![Preview Window](./img/vscode_example.png)
+
+
+## Markdown Syntax
+Markdown has a very simple syntax; many of its markup elements appear to be borrowed from the ways people currently use to apply emphasis or meaning in other plaintext format communications. 
+
+For example, adding *italic emphasis* to a word **or boldness** or the extreme ***italisised boldness*** to a word. 
+
+---
 
 
 
