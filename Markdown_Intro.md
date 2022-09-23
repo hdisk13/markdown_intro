@@ -1,6 +1,7 @@
 # Markdown Introduction
 
 A brief tour of Markdown&copy; in VS.Code and our DevOps Cloud Journey Wiki.
+Also available here: https://github.com/hdisk13/markdown_intro
 
 ## What is Markdown
 
