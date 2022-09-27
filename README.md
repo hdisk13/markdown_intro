@@ -7,10 +7,9 @@ GitHub&copy;
 
 And now for some Mermaid:
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+``` mermaid
+flowchart TD;
+    A[You need a README file]-->B(do you want it to be pretty?);
+    B -- No -->D[Use plain text];
+    B -- Yes -->C[Use Markdown and Mermaid];
 ```
